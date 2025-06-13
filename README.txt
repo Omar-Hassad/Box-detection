@@ -7,4 +7,4 @@ Box detection system that measures length, width, and height using a calibrated 
 
 3.The height of the box is calculated separately, and the result is also added to the same Excel file.
 
-4.also change the path of the best.onnx in all the file.py to ure oun path 
+4.Before any step you need to change the path of the best.onnx in all the file.py to ure oun path in your pc (you will find it in the top of the code)
